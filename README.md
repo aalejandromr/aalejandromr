@@ -9,4 +9,4 @@
   - or LinkedIn https://www.linkedin.com/in/aalejandromr/
 ***
 - ⚡ Fun fact:
-  - I'm the second of three developers and we all are developers :wink: it runs in the family.
+  - I'm the second of three siblings and we all are developers :wink: it runs in the family.
