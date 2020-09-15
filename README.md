@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey, thanks for stopping by 👋🏾 I'm a full stack web developer passionate about the web :spider_web: and social justice for a daily life without violence for women :dove:.
 
-<!--
-**aalejandromr/aalejandromr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Recently graduated from Lambda School - cohort PT7
+- :hammer_and_wrench: I'm learning about women's social injustice in El Salvador and the law's framework that protects them ⚖ 
+- 💬 Ask me about Pop and I might be able to answer you, aks me about any other genres and I'll be lost
+- 📫 How to reach me:
+  - Just DM me at my twittter and follow me if you want https://twitter.com/AalejandroMejia
+  - or LinkedIn https://www.linkedin.com/in/aalejandromr/
+***
+- ⚡ Fun fact:
+  - I'm the second of three developers and we all are developers :wink: it runs in the family.
