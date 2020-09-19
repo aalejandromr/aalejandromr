@@ -5,7 +5,7 @@
 - :hammer_and_wrench: I'm learning about women's social injustice in El Salvador and the law's framework that protects them ⚖ 
 - 💬 Ask me about Pop and I might be able to answer you, aks me about any other genres and I'll be lost
 - 📫 How to reach me:
-  - Just DM me at my twittter and follow me if you want https://twitter.com/AalejandroMejia
+  - Just DM me at my twitter and follow me if you want https://twitter.com/AalejandroMejia
   - or LinkedIn https://www.linkedin.com/in/aalejandromr/
 ***
 - ⚡ Fun fact:
